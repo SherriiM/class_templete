@@ -6,10 +6,10 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
+  title: "Studious Pancake"
   author:
-    - AUTHOR1 (UNI1)
-    - AUTHOR2 (UNI2)
+    - Joyce Robbins (jtr13)
+    - Xiying Mao (xm2335)
   repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
   date: today
   page-footer:
