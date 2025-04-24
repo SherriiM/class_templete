@@ -8,7 +8,6 @@ execute:
 book:
   title: "Studious Pancake"
   author:
-    - Joyce Robbins (jtr13)
     - Xiying Mao (xm2335)
   repo-url: https://github.com/SherriiM/class_templete
   date: today
